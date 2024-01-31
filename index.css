@@ -12,6 +12,7 @@
 body {
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
+    color: rgb(53, 48, 48);
     /* font-family: 'Outfit', sans-serif;
     font-family: 'Young Serif', serif; */
 }
@@ -61,7 +62,7 @@ body {
 
 main {
     background-color: white;
-    margin: 2em 25em;
+    margin: 6em 25em;
     padding: 2em;
     border-radius: 1em;
 }
@@ -84,7 +85,6 @@ h1 {
     padding: 1em;
     border-radius: 1em;
     list-style: none;
-
     
 }
 
