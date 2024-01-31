@@ -67,14 +67,16 @@ main {
 }
 
 img {
-    padding: 2em;
-    border-radius: ;}
+    padding: 0em;
+    border-radius:10px ;}
 
 
 h1 {
     margin-top: 1em;
     margin-bottom: .5em;
     font-family:'Young Serif', serif;
+    font-size: 2.5em;
+    font-weight: lighter;
 }
 
 .overview{
@@ -97,7 +99,7 @@ h1 {
 }
 
 .bold{
-    font-weight: 600;
+    font-weight: bold;
 }
 
 .overview-title{
@@ -163,7 +165,7 @@ padding-bottom: 1em;
 
 /* Media queries */
 /* Mobile */
-/* @media (max-width:705px){
+@media (max-width:375px){
 .container{
    padding:0;
    margin-top:0;
@@ -183,4 +185,4 @@ h1{
     margin-top: 0;
     padding-top: 1em;
 }
-} */
+} 
